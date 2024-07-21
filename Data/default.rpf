@@ -1,0 +1,23 @@
+[Output]
+Executable=0
+OutputFileName=C:\NVLMaker 3.x\project\Template\packtest\Data.xp3
+
+[Extensions]
+Compress=.asd,.ks,.tjs,.txt,.wav
+Store=.edu,.jpg,.map,.ogg,.png,.sli
+Discard=
+
+[Options]
+DoCompressSizeLimit=1
+CompressSizeLimit=1024
+Protect=0
+OVBookShare=1
+CompressIndex=1
+UseXP3EncDLL=0
+
+[Executable]
+ChangeIcon=0
+Icon=
+Options=
+InvisibleOptions=datapath,debug,forcelog,logerror,debugwin,hkcontroller,hkeditor,hkwatch,hkconsole,hkclipenvinfo,hkabout,hkupdaterect,hkdumplayer,arcdelim,evalcontext,holdalpha,unaryaster
+
