@@ -1,0 +1,16 @@
+[controller]
+left=182
+top=182
+stayontop=0
+
+[console]
+autoshowonerror=0
+
+[script editor]
+left=52
+top=52
+width=538
+height=355
+content=
+stayontop=0
+
